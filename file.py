@@ -1,6 +1,5 @@
 from sklearn import models
 import pandas as pd
-import random
 import numpy as np
 import operatror as op
 from random import random
